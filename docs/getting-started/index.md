@@ -7,7 +7,7 @@ outline: deep
 Download the library:
 
 ```bash
-go get github.com/fiatjaf/khatru
+go install github.com/fiatjaf/khatru@latest
 ```
 
 Include the library:
